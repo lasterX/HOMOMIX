@@ -1,3 +1,5 @@
+fork 自 https://github.com/Vbaethon/HOMOMIX
+
 ## 适用于mihomo - MetacubeX面板的Icon
 
 # 使用前：
@@ -15,7 +17,7 @@
 
 3、Icons地址请使用raw地址
 
-        例如：https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
+        例如：https://raw.githubusercontent.com/lasterX/HOMOMIX/main/Icon/Color/Telegram.png
 
 #### 4、面板可以调节尺寸与距离
 
